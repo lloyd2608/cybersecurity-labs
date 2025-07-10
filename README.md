@@ -1,6 +1,6 @@
  # Cybersecurity Labs
 
-Welcome to my personal **Cybersecurity Labs** — a journey-in-progress as I transition from a passionate learner to a skilled cybersecurity analyst. This repo is my open notebook: a collection of labs, notes, scripts, and small victories along the way.
+Welcome to my personal **Cybersecurity Labs**  a journey-in-progress as I transition from a passionate learner to a skilled cybersecurity analyst. This repo is my open notebook: a collection of labs, notes, scripts, and small victories along the way.
 
 ---
 
@@ -12,7 +12,7 @@ To **build real-world skills** in cybersecurity by learning hands-on:
 - Solving real challenges
 - Breaking things (then fixing them)
 
-I document everything I do here to keep myself accountable — and maybe help others who are also just starting out.
+I document everything I do here to keep myself accountable and maybe help others who are also just starting out.
 
 ---
 
